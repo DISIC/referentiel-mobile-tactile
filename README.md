@@ -1,4 +1,4 @@
-# Réfentiel spécifique aux plateformes mobiles/tactiles
+# Référentiel spécifique aux plateformes mobiles/tactiles
 
 ## Avertissement
 
