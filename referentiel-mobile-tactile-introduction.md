@@ -27,7 +27,7 @@ Les plateformes mobiles/tactiles peuvent proposer trois types génériques de co
 - des contenus faisant appel exclusivement à des technologies non-web, c'est-à-dire des langages de développement spécifiques comme objective-C ou Java par exemple&nbsp;;
 - Des contenus hybrides qui peuvent mélanger des contenus fournis via des technologies web et des contenus fournis via des technologies non-web. C'est le cas par exemple des <i lang="en">"webviews"</i>, composants embarqués dans une application non-web permettant d'afficher et d'interagir avec du contenu web.
 
-**La [liste des critères](./refentiel-mobile-liste-criteres.md) présentée ici concerne exclusivement les contenus consultables à travers un navigateur web, il exclut donc les applications natives**.
+**La [liste des critères](./refentiel-mobile-tactile-liste-criteres.md) présentée ici concerne exclusivement les contenus consultables à travers un navigateur web, il exclut donc les applications natives**.
 
 Des guides méthodologiques adaptés aux applications non-web seront mis à disposition dans les [ressources fournies en application du RGAA&nbsp;3](http://references.modernisation.gouv.fr/ressources).
 
