@@ -45,7 +45,7 @@ Leur prise en charge, et plus encore l'objectif de conformité réglementaire, a
 
 En revanche, cette problématique a fortement mobilisé des acteurs importants de l'industrie ou du domaine de l'accessibilité numérique qui ont proposé un certain nombre de ressources, tutoriaux ou liste de recommandations applicables en contexte mobile/tactile.
 
-La note produite par W3C/WAI et les éléments issus de l'état de l'art ont servi de socle à l'élaboration de la [liste des critères applicables aux plateformes mobiles/tactiles](./refentiel-mobile-liste-criteres.md) présentée dans ce document.
+La note produite par W3C/WAI et les éléments issus de l'état de l'art ont servi de socle à l'élaboration de la [liste des critères applicables aux plateformes mobiles/tactiles](./refentiel-mobile-tactile-liste-criteres.md) présentée dans ce document.
 
 Il serait déraisonnable d'en faire une exigence réglementaire, cependant il est fortement recommandé de pouvoir appliquer ces recommandations dans le cas d'applications web ou de déclinaisons de sites web dédiés à la consultation sur plateforme mobile/tactile.
 
