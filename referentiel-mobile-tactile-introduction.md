@@ -3,7 +3,7 @@
 ## Introduction
 
 ### Avertissement
-Cette ressource doit être utilisée en complément du [RGAA 3](http://references.modernisation.gouv.fr/rgaa-3-0), notamment son [référentiel technique](http://references.modernisation.gouv.fr/referentiel-technique-0), sans lequel la prise en compte de l'accessibilité ne peut pas être mesurée.
+Cette ressource doit être utilisée en complément du [RGAA 3](http://references.modernisation.gouv.fr/rgaa/), notamment son [référentiel technique](http://references.modernisation.gouv.fr/rgaa/criteres.html), sans lequel la prise en compte de l'accessibilité ne peut pas être mesurée.
 
 ### À propos de cette ressource
 
@@ -29,7 +29,7 @@ Les plateformes mobiles/tactiles peuvent proposer trois types génériques de co
 
 **La [liste des critères](./refentiel-mobile-tactile-liste-criteres.md) présentée ici concerne exclusivement les contenus consultables à travers un navigateur web, il exclut donc les applications natives**.
 
-Des guides méthodologiques adaptés aux applications non-web seront mis à disposition dans les [ressources fournies en application du RGAA&nbsp;3](http://references.modernisation.gouv.fr/ressources).
+Des guides méthodologiques adaptés aux applications non web seront mis à disposition dans les [ressources fournies en application du RGAA&nbsp;3](http://references.modernisation.gouv.fr/ressources).
 
 ## WCAG, l'état de l'art et le mobile/tactile
 
@@ -91,7 +91,7 @@ Android de Google est publié sous licence libre et est donc très utilisé par 
 
 À noter que Google propose également un système d'exploitation (Chrome&nbsp;OS).
 
-D'autres fournisseurs sont également présents sur le marché comme Microsoft (Windows phone et Windows 10), la fondation Mozilla (Firefox&nbsp;OS), RIM (Blackberry&nbsp;OS), Samsung (Bada)...
+D'autres fournisseurs sont également présents sur le marché comme Microsoft (Windows phone et Windows 10), la fondation Mozilla (Firefox&nbsp;OS), RIM (Blackberry&nbsp;OS), Samsung (Bada)…
 
 Mais ces plateformes représentent une part encore minoritaire en 2015.
 
@@ -104,4 +104,4 @@ En effet, l'ensemble <span lang="en">i</span>OS/Safari/<span lang="en">Voice Ove
 L'enquête WEBAIM&nbsp;: <a href="http://webaim.org/projects/screenreadersurvey5/" lang="en">Screen Reader User Survey #5 Results (2014)</a> fait apparaître que plus de la moitié des utilisateurs de lecteurs d'écran (63&nbsp;%) utilisent la plateforme Apple. Attention cependant, ces chiffres peuvent évoluer rapidement d'une année sur l'autre.
 
 ## Licence
-Ce document est la propriété du Secrétariat général à la modernisation de l'action publique français (SGMAP). Il est placé sous la [licence ouverte 1.0 ou ultérieure](http://wiki.data.gouv.fr/wiki/Licence_Ouverte_/_Open_Licence), équivalente à une licence <i lang="en">Creative Commons BY</i>. Pour indiquer la paternité, ajouter un lien vers la version originale du document disponible sur le [compte <span lang="en">Github</span> de la DISIC](https://github.com/DISIC).
+Ce document est la propriété du Secrétariat général à la modernisation de l'action publique français (SGMAP). Il est placé sous la [licence ouverte 1.0 ou ultérieure](https://www.etalab.gouv.fr/licence-ouverte-open-licence), équivalente à une licence <i lang="en">Creative Commons BY</i>. Pour indiquer la paternité, ajouter un lien vers la version originale du document disponible sur le [compte <span lang="en">Github</span> de la DISIC](https://github.com/DISIC).

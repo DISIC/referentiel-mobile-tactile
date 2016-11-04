@@ -3,7 +3,7 @@
 ## Introduction
 
 ### Avertissement
-Cette ressource doit être utilisée en complément du [RGAA 3](http://references.modernisation.gouv.fr/rgaa-3-0), notamment son [référentiel technique](http://references.modernisation.gouv.fr/referentiel-technique-0), sans lequel la prise en compte de l'accessibilité ne peut pas être mesurée.
+Cette ressource doit être utilisée en complément du [RGAA 3](http://references.modernisation.gouv.fr/rgaa/), notamment son [référentiel technique](http://references.modernisation.gouv.fr/rgaa/criteres.html), sans lequel la prise en compte de l'accessibilité ne peut pas être mesurée.
 
 ### Mode d'emploi
 
@@ -286,4 +286,4 @@ Dans le cas où un type de formulaire ne pourrait pas être utilisé en contexte
 * <a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/Mobile_accessibility_checklist" lang="en">Mobile accessibility checklist</a>.
 
 ## Licence
-Ce document est la propriété du Secrétariat général à la modernisation de l'action publique français (SGMAP). Il est placé sous la [licence ouverte 1.0 ou ultérieure](http://wiki.data.gouv.fr/wiki/Licence_Ouverte_/_Open_Licence), équivalente à une licence <i lang="en">Creative Commons BY</i>. Pour indiquer la paternité, ajouter un lien vers la version originale du document disponible sur le [compte <span lang="en">Github</span> de la DISIC](https://github.com/DISIC).
+Ce document est la propriété du Secrétariat général à la modernisation de l'action publique français (SGMAP). Il est placé sous la [licence ouverte 1.0 ou ultérieure](https://www.etalab.gouv.fr/licence-ouverte-open-licence), équivalente à une licence <i lang="en">Creative Commons BY</i>. Pour indiquer la paternité, ajouter un lien vers la version originale du document disponible sur le [compte <span lang="en">Github</span> de la DInSIC](https://github.com/DISIC).
