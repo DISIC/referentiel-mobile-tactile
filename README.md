@@ -9,3 +9,7 @@ En particulier, ce référentiels utilise les premiers résultats issus du group
 Par ailleurs, WCAG propose également une sélection de techniques applicables en contexte mobile/tactile (<a href="http://www.w3.org/WAI/GL/mobile-a11y-tf/MobileTechniques/" lang="en">WCAG 2.0 Techniques that Apply to Mobile</a>).
 
 Enfin, ce document s'inscrit dans le prolongement du [RGAA 3](http://references.modernisation.gouv.fr/rgaa/) et notamment de son [référentiel technique](http://references.modernisation.gouv.fr/rgaa/criteres.html), sans lequel la prise en compte de l'accessibilité ne peut pas être mesurée. Les références entre ces deux référentiels sont nombreuses aussi le lecteur est-il invité à avoir une certaine expérience du RGAA 3.
+
+## Traduction
+
+Ce document est également [disponible en anglais](https://github.com/DISIC/referentiel-mobile-tactile/tree/en).
