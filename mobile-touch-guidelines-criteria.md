@@ -43,13 +43,13 @@ Make sure that <a href="#Zonesens">touch targets</a> are large enough, that zoom
 
 #### 14.2 [AA] Browser zoom functionality should not be suppressed or limited, has this rule been followed?
 
-* Test 14.2.1: Do the values ​​used by the metadata <code>viewport</ code> meet these conditions?
-    * The value of the <code>maximum-scale</ code> attribute is greater than or equal to 2.0 or 200%;
+* Test 14.2.1: Do the values ​​used by the metadata <code>viewport</code> meet these conditions?
+    * The value of the <code>maximum-scale</code> attribute is greater than or equal to 2.0 or 200%;
     * The value of the <code>user-scale</code> attribute is equal to <code>yes</code>, if present.
 
 * Test 14.2.2: Do the values ​​used by the CSS <code>@viewport</code> rule meet these conditions?
     * The value of the <code>max-zoom</code> property is greater than or equal to 2.0 or 200%;
-    * The value of the <code>user-zoom</ code> property is equal to <code>zoom</code>, if present.
+    * The value of the <code>user-zoom</code> property is equal to <code>zoom</code>, if present.
 
 ##### Mappings
 - W3C Mobile Accessibility: [2.2 Zoom/Magnification](http://www.w3.org/TR/mobile-accessibility-mapping/#zoom-magnification);
@@ -285,4 +285,4 @@ In the case where a form type could not be used in a mobile/tactile context, due
 * <a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/Mobile_accessibility_checklist">Mobile accessibility checklist</a>.
 
 ## Licence
-This document is the property of the <span lang="fr">Secrétariat général à la modernisation de l'action publique</span> (SGMAP). It is placed under [Open Licence 1.0 or later (PDF, 541 kb)](http://ddata.over-blog.com/xxxyyy/4/37/99/26/licence/Licence-Ouverte-Open-Licence-ENG.pdf), equivalent to a Creative Commons BY licence. To indicate authorship, add a link to the original version of the document available on the [DInSIC's Github account](https://github.com/DISIC).
+This document is the property of the <span lang="fr">Secrétariat général à la modernisation de l'action publique</span> (SGMAP). It is placed under [Open Licence 1.0 or later (PDF, 541 kb)](http://ddata.over-blog.com/xxxyyy/4/37/99/26/licence/Licence-Ouverte-Open-Licence-ENG.pdf), equivalent to a Creative Commons BY licence. To indicate authorship, add a link to the original version of the document available on the [DINSIC's GitHub account](https://github.com/DISIC).
