@@ -39,7 +39,7 @@ Make sure that <a href="#Zonesens">touch targets</a> are large enough, that zoom
 - W3C Mobile Accessibility: [3.2 Touch Target Size and Spacing](http://www.w3.org/TR/mobile-accessibility-mapping/#touch-target-size-and-spacing).
 
 ###### Level mapping
-</p>The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it's a **level A criterion**. </p>
+The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it's a **level A criterion**.
 
 #### 14.2 [AA] Browser zoom functionality should not be suppressed or limited, has this rule been followed?
 
@@ -67,7 +67,7 @@ Read the proposed technique <a href="http://w3c.github.io/Mobile-A11y-TF-Note/Te
 - W3C Mobile Accessibility: [3.3 Touchscreen Gestures](http://www.w3.org/TR/mobile-accessibility-mapping/#touchscreen-gestures).
 
 ###### Level mapping
-</p>The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it's a **level A criterion**.</p>
+The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it's a **level A criterion**.
 
 #### 14.4 Does each <a href="#Intergestcomplex">complex gesture-based interaction</a> have an alternative?
 
@@ -79,7 +79,7 @@ Read the proposed technique <a href="http://w3c.github.io/Mobile-A11y-TF-Note/Te
 - W3C Mobile Accessibility: [3.3 Touchscreen Gestures](http://www.w3.org/TR/mobile-accessibility-mapping/#touchscreen-gestures).
 
 ###### Level mapping
-</p>The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.</p>
+The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.
 
 #### 14.5 [AAA] <a href="#intergest">Gesture-based interactions</a> should be described using online help, has this rule been followed?
 
@@ -104,7 +104,7 @@ Read the proposed technique <a href="http://w3c.github.io/Mobile-A11y-TF-Note/Te
     * [3.4 Device Manipulation Gestures](http://www.w3.org/TR/mobile-accessibility-mapping/#device-manipulation-gestures).
 
 ###### Level mapping
-</p>The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.</p>
+The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.
 
 #### 14.7 Access to content should not depend on a screen orientation (portrait or landscape), has this rule been followed?
 
@@ -116,19 +116,19 @@ Read the proposed technique <a href="http://w3c.github.io/Mobile-A11y-TF-Note/Te
 - W3C Mobile Accessibility: [4.1 Changing Screen Orientation (Portrait/Landscape)](http://www.w3.org/TR/mobile-accessibility-mapping/#changing-screen-orientation-portrait-landscape).
 
 ###### Level mapping
-</p>The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.</p>
+The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.
 
 #### 14.8 For each input field, is the expected input format, if possible, associated with a relevant <a href="#Typesaisie">input type</a>?
 
 * Test 14.8.1: For each input field, is the expected input format associated with a relevant input type?
 
-</p> See the <a href="#NT1">technical note about new form input types</a>.</p>
+ See the <a href="#NT1">technical note about new form input types</a>.
 
 ##### Mappings
 - W3C Mobile Accessibility: [5.1 Set the virtual keyboard to the type of data entry required](http://www.w3.org/TR/mobile-accessibility-mapping/#set-the-virtual-keyboard-to-the-type-of-data-entry-required).
 
 ###### Level mapping
-</p>The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.</p>
+The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.
 
 #### 14.9 [A] The <a href="#Elemadj">adjacent interactive elements</a>, triggering the same action, must be grouped into a single element, has this rule been followed?
 
@@ -136,7 +136,7 @@ Read the proposed technique <a href="http://w3c.github.io/Mobile-A11y-TF-Note/Te
 
 See technique <a href="http://www.w3.org/WAI/GL/WCAG20-TECHS/H2.html">H2: Combining adjacent image and text links for the same resource</a>.
 
-</p> Note: this recommendation refers to a WCAG technique, currently not supported in the RGAA&nbsp;3 technical reference. This requirement should be introduced in RGAA&nbsp;3 in a future update. This criterion 14.9 would then be deleted to avoid duplication.</p>
+ Note: this recommendation refers to a WCAG technique, currently not supported in the RGAA&nbsp;3 technical reference. This requirement should be introduced in RGAA&nbsp;3 in a future update. This criterion 14.9 would then be deleted to avoid duplication.
 
 ##### Mappings
 - W3C Mobile Accessibility: [4.4 Grouping operable elements that perform the same action](http://www.w3.org/TR/mobile-accessibility-mapping/#grouping-operable-elements-that-perform-the-same-action);
@@ -160,7 +160,7 @@ In this context, we have numbered differently these criteria and have prefixed t
 #### Reference
 - BBC Mobile Accessibility Guidelines: [Background images](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile/images/background-images).
 
-</p>The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.</p>
+The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.
 
 ### RecoMT-14.2 Is each visible alternative associated with a background image relevant?
 
@@ -169,7 +169,7 @@ In this context, we have numbered differently these criteria and have prefixed t
 #### Reference
 - BBC Mobile Accessibility Guidelines: [Background images](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile/images/background-images).
 
-</p>The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.</p>
+The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level A criterion**.
 
 ### RecoMT-14.3 Is each image optimized for the screen size and resolution?
 
@@ -180,7 +180,7 @@ In this context, we have numbered differently these criteria and have prefixed t
 #### Reference
 - W3C Mobile Web Best Practices 1.0: [5.3.5 Graphics](http://www.w3.org/TR/mobile-bp/#d0e1219).
 
-</p>The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level AA criterion**.</p>
+The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level AA criterion**.
 
 ### RecoMT-14.4 Is the content order of the page optimized for viewing on a mobile/touch device screen?
 
@@ -189,7 +189,7 @@ In this context, we have numbered differently these criteria and have prefixed t
 #### Reference
 - W3C Mobile Accessibility [4.3 Positioning important page elements before the page scroll](http://www.w3.org/TR/mobile-accessibility-mapping/#positioning-important-page-elements-before-the-page-scroll).
 
-</p>The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level AA criterion**.</p>
+The [W3C/WAI note](http://www.w3.org/TR/mobile-accessibility-mapping/), on which this document is based, does not associate a level with this criterion. For information, based on "<a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html">Understanding Conformance</a>", we consider it’s a **level AA criterion**.
 
 ## Glossary
 
